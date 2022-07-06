@@ -1,3 +1,7 @@
+## Archived
+
+This project is no longer maintained
+
 # Express-TypeORM-demo
 Node.js后台项目搭建使用Express+TypeORM+TypeScript+MySQL
 # CSDN 博客地址
